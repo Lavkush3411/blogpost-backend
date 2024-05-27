@@ -19,7 +19,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Running Server
 
-To run tests, run the following command
+To start project, run the following command
 
 ```bash
   npm start
